@@ -1,6 +1,6 @@
 # Virtual Keyboard App
 
-<img src="" alt="">
+<img src="img.jpg" alt="">
 
 # Overview
 The Virtual Keyboard App is a Python-based on-screen keyboard that allows users to input text without using a physical keyboard. It offers a range of functionalities, including standard alphanumeric keys, special keys like backspace and shift, and more.
